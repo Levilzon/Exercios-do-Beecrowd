@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001HelloWold#1000/001HelloWold#1000.iml" filepath="$PROJECT_DIR$/001HelloWold#1000/001HelloWold#1000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002ExtremamenteBásico#1001/002ExtremamenteBásico#1001.iml" filepath="$PROJECT_DIR$/002ExtremamenteBásico#1001/002ExtremamenteBásico#1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003AreaDoCirculo#1002/003AreaDoCirculo#1002.iml" filepath="$PROJECT_DIR$/003AreaDoCirculo#1002/003AreaDoCirculo#1002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004SomaSimples#1003/004SomaSimples#1003.iml" filepath="$PROJECT_DIR$/004SomaSimples#1003/004SomaSimples#1003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005produtoSimples1004/005produtoSimples1004.iml" filepath="$PROJECT_DIR$/005produtoSimples1004/005produtoSimples1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006mediaSimples1005/006mediaSimples1005.iml" filepath="$PROJECT_DIR$/006mediaSimples1005/006mediaSimples1005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007mediaSimples1006/007mediaSimples1006.iml" filepath="$PROJECT_DIR$/007mediaSimples1006/007mediaSimples1006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beecrowd.iml" filepath="$PROJECT_DIR$/.idea/beecrowd.iml" />
+    </modules>
+  </component>
+</project>
