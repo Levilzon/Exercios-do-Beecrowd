@@ -15,6 +15,13 @@
       <module fileurl="file://$PROJECT_DIR$/013/013.iml" filepath="$PROJECT_DIR$/013/013.iml" />
       <module fileurl="file://$PROJECT_DIR$/013area/013area.iml" filepath="$PROJECT_DIR$/013area/013area.iml" />
       <module fileurl="file://$PROJECT_DIR$/014/014.iml" filepath="$PROJECT_DIR$/014/014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017distancia1016/017distancia1016.iml" filepath="$PROJECT_DIR$/017distancia1016/017distancia1016.iml" />
+      <module fileurl="file://$PROJECT_DIR$/018gastodecombustivel1017/018gastodecombustivel1017.iml" filepath="$PROJECT_DIR$/018gastodecombustivel1017/018gastodecombustivel1017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019cedulas1018/019cedulas1018.iml" filepath="$PROJECT_DIR$/019cedulas1018/019cedulas1018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020conversaodetempo1019/020conversaodetempo1019.iml" filepath="$PROJECT_DIR$/020conversaodetempo1019/020conversaodetempo1019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021idadeemdias1020/021converterdiasemanos1020.iml" filepath="$PROJECT_DIR$/021idadeemdias1020/021converterdiasemanos1020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/022testedeselecao1035/022testedeselecao1035.iml" filepath="$PROJECT_DIR$/022testedeselecao1035/022testedeselecao1035.iml" />
+      <module fileurl="file://$PROJECT_DIR$/023formuladebhaskara1036/023formuladebhaskara1036.iml" filepath="$PROJECT_DIR$/023formuladebhaskara1036/023formuladebhaskara1036.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/beecrowd.iml" filepath="$PROJECT_DIR$/.idea/beecrowd.iml" />
     </modules>
   </component>
